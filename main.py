@@ -48,4 +48,6 @@ dictionary_for_panda ={
 
 #save data into DataFrame using panda
 result_dataframe = pd.DataFrame(dictionary_for_panda)
-print(result_dataframe)
+
+#save data into csv file using panda
+result_dataframe.to_csv('weather.csv')
