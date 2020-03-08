@@ -6,7 +6,7 @@ I'm using [This page](https://www.accuweather.com/en/ir/tehran/210841/daily-weat
 #### 1-python 3.8.1
 
 #### 2-beautifulsoup4
-makes a beautiful structure of  your html page that is able to find all classes and ids and css etc easily. [more info](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)   
+makes a beautiful structure of  your html page that is able to find all classes and ids and css etc easily. [more info](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)   
 Install module: ```pip install bs4```
 
 #### 3-Requests
